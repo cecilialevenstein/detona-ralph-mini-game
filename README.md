@@ -21,7 +21,7 @@ Immerse yourself in the nostalgic pixel art style of classic arcade games.
 3. Use your mouse to click on the screen wherever Ralph appears.
 
 #### Online: 
-If you're unfamiliar with cloning repositories or working with code, you can play it [here](URL do link).
+If you're unfamiliar with cloning repositories or working with code, you can play it [here](https://cecilialevenstein.github.io/detona-ralph-mini-game/index.html).
 
 
 ## Technology Stack:
