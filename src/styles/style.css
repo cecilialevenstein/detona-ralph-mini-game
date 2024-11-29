@@ -1,5 +1,8 @@
 .container {
     display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../img/wall.png");
 }
 
 .menu {
@@ -10,4 +13,23 @@
     width: 100%;
     background-color: #000000;
     color: #ffffff;
+}
+
+.panel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000000;
+    background-color: #5ec7a4;
+}
+
+.enemy {
+    background-image: url("../img/ralph.png");
+    background-size: cover;
 }
