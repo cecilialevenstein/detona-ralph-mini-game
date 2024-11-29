@@ -13,6 +13,7 @@
     width: 100%;
     background-color: #000000;
     color: #ffffff;
+    border-bottom: 5px solid #ffd700;
 }
 
 .panel {
@@ -32,4 +33,16 @@
 .enemy {
     background-image: url("../img/ralph.png");
     background-size: cover;
+}
+
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-time h2:nth-child(2), 
+.menu-score h2:nth-child(2) {
+    margin-top: 10px;
+
 }
